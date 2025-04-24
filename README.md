@@ -7,6 +7,8 @@ Handling inconsistent date formats using STR_TO_DATE and REPLACE
 Aggregations such as total sales, average profit, and region-wise reports
 
 Special reports including category hierarchies and shipping analysis
+
+
 sql-assignments/
 │
 ├── README.md
